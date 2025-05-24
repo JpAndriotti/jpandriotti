@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, seja muito bem vindo 👋
 
-<!--
-**JpAndriotti/jpandriotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Minhas principais tecnologias
 
-Here are some ideas to get you started:
+- React
+- Javascript
+- Typescript
+- CSS
+- HTML
+- Node Js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiências Profissionais
+
+- Desenvolvedor na Duo&Co
+- Desenvolvedor na Consultoria Digital
+- Aprendiz na área de suporte técnico no Peruzzo Supermercados
